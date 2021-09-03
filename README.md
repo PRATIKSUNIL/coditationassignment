@@ -4,7 +4,7 @@
 possible states, live or dead. Every cell interacts with its eight neighbors, which are the cells that are
 directly horizontally, vertically, or diagonally adjacent.
 
-# Rules used for each trasision
+# Rules used for each transition
  1. Any live cell with fewer than two live neighbors dies, as if by loneliness.
 2. Any live cell with more than three live neighbors dies, as if by overcrowding.
 3. Any live cell with two or three live neighbors lives, unchanged, to the next generation.
