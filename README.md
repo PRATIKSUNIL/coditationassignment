@@ -10,7 +10,7 @@ directly horizontally, vertically, or diagonally adjacent.
 3. Any live cell with two or three live neighbors lives, unchanged, to the next generation.
 4. Any dead cell with exactly three live neighbors comes to life.
 # live demo
- link: 
+ link: https://pratiksunil.github.io/coditationassignment/
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
